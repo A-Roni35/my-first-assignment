@@ -23,19 +23,19 @@ nav{
 
 .resume{
     font-family: "Azeret Mono", monospace;
-  font-optical-sizing: auto;
-  font-weight: 600;
-  font-style: normal;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  gap: 10;
-  height: 57px;
-  width: 180px;
-  border-radius: 8px;
-  color: rgb(13, 19, 33);
-  background-color: white;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10;
+    height: 57px;
+    width: 180px;
+    border-radius: 8px;
+    color: rgb(13, 19, 33);
+    background-color: white;
 }
 
 .developer{
@@ -49,17 +49,17 @@ nav{
 .future{
     font-family: "Azeret Mono", monospace;
     font-optical-sizing: auto;
-    font-weight: 600;
+    font-weight: 700;
     font-style: normal;
-    font-size: 30px;
+    font-size: 50px;
 }
 
 .lorem{
     font-family: "Azeret Mono", monospace;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 12px;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 20px;
 }
 
 .contact{
@@ -68,9 +68,141 @@ nav{
     width: 244px;
     height: 65px;
     margin-top: 10px;
+    margin-bottom: 20px;
     color:white;
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 15px;
+    gap: 10;
 }
 
-.contact-button{
-    
+.web{
+    position: absolute;
+    width: 1140px;
+    height: 1393px;
+    left: 175px;
+    right: 125px;
+    top: 911px;
+    bottom: 2941px;
+    background-color:rgba(13, 19, 33, 0.02)
+}
+
+.web-head{
+    text-align: center;
+}
+
+.development{
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 40px;
+}
+
+.lorem1{
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.web-head1{
+    margin: 48px 97px 32px 97px;
+    padding: 48px;
+    background-color:rgb(255, 255, 255) ;
+}
+
+.code{
+    display: flex;
+    justify-content: space-between;
+}
+
+.world{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    width: 390px;
+    height: 72px;
+}
+
+.world1{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.world2{
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    gap: 10;
+    padding: 12px 20px 12px 20px;
+    color: 1px	Inside
+    rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align:center;
+}
+
+.web-head2{
+    margin: 48px 97px 32px 97px;
+    padding:48px ;
+    background-color:rgb(255, 255, 255) ;
+}
+
+.code1{
+    display: flex;
+}
+
+.system{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    width: 490px;
+    height: 72px;
+}
+
+.system1{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.system2{
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    gap: 10;
+    padding: 12px 20px 12px 20px;
+    color: 1px	Inside
+    rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align:center;
+}
+
+.system3{
+    padding-left: 30px;
 }
