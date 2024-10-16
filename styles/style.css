@@ -79,7 +79,7 @@ nav{
 }
 
 .web{
-    position: absolute;
+    margin: 50px 150px 50px 175px;
     width: 1140px;
     height: 1393px;
     left: 175px;
@@ -205,4 +205,39 @@ nav{
 
 .system3{
     padding-left: 30px;
+}
+
+.inspiration{
+    text-align: center;
+}
+
+.inspiration-content{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+
+}
+
+.inspiration-p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.youtube{
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    margin: 50px 175px 50px 172px;
+    border-radius: 16px;
+    padding:30px;
+}
+
+.youtube1{
+    border-radius: 16px;
+    width: 1076px;
+    height: 550px;
+    /* padding: auto; */
 }
