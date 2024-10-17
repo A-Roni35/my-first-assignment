@@ -19,6 +19,7 @@ nav{
     width: 180px;
     height: 57px;
     top: 50px;
+    padding-top: 15px;
 }
 
 .resume{
@@ -390,7 +391,7 @@ nav{
 }
 
 .support1{
-    color: rgb(180, 179, 179);
+    color: rgb(209, 201, 201);
     font-family: Azeret Mono;
     font-size: 16px;
     font-weight: 400;
